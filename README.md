@@ -7,8 +7,8 @@ Things to improve on:
   - Take any kind of photo with question and answer choice in it and be able to extract useful information from it
   - Acquire better search results(could be done applying diffrent boolean operators in the search) 
   - Come up with better analysis methods(chop off common suffixes on certain answer choices, see how close an answer choice is to something    in the question, use some advanced NLP methods, make a datatable with previously answered questions and apply ML techniques)
-  
-  Update:
+
+Update:
     - Added apostrophe remover and plurality remover for better accuracy 
   
 Requirements:
