@@ -9,7 +9,7 @@ Things to improve on:
   - Come up with better analysis methods(chop off common suffixes on certain answer choices, see how close an answer choice is to something    in the question, use some advanced NLP methods, make a datatable with previously answered questions and apply ML techniques)
 
 Update:
-    - Added apostrophe remover and plurality remover for better accuracy 
+  - Added apostrophe remover and plurality remover for better accuracy 
   
 Requirements:
   - Python compiler(I am using Jupyter Notebook)
