@@ -1,6 +1,5 @@
 # QuestionSolver
-- Python code that solves a multiple choice question with 3 answer choices. It requires access to Google Console. 
-- I loved working on this project. It is cool how you can write code to answer a question for you and I will keep trying to improve it
+- Python code that will attempt to solve a multiple choice question with 3 answer choices. It requires access to Google Console. 
 
 Update:
   - Added apostrophe remover and plurality remover for better accuracy
@@ -9,7 +8,7 @@ Things to improve on:
   - Take in any number of answer choices
   - Take any kind of photo with question and answer choice in it and be able to extract useful information from it
   - Acquire better search results(could be done applying diffrent boolean operators in the search) 
-  - Come up with better analysis methods(chop off common suffixes on certain answer choices, see how close an answer choice is to something    in the question, use some advanced NLP methods, make a datatable with previously answered questions and apply ML techniques) 
+  - Come up with better analysis methods(chop off common suffixes on certain answer choices, see how close an answer choice is to something in the question, use some advanced NLP methods, make a datatable with previously answered questions and apply ML techniques) 
   
 Requirements:
   - Python compiler(I am using Jupyter Notebook)
