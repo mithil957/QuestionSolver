@@ -28,4 +28,4 @@ How it works:
   6. Then, the dataframe is anaylzed to count the frequency of the answer choices 
   7. Frequency for each choice is displayed
  
-*USE AT OWN RISK, IT IS NOT PREFECT!!
+*USE AT OWN RISK, IT IS NOT PERFECT!!
