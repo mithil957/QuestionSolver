@@ -1,9 +1,11 @@
 # QuestionSolver
 - Python code that will attempt to solve a multiple choice question with 3 answer choices. It requires access to Google Console. 
 
+<img src="https://github.com/mithil957/QuestionSolver/blob/master/qs.JPG" width="360">
+
 Update:
   - Added apostrophe remover and plurality remover for better accuracy
-
+  
 Things to improve on:
   - Take in any number of answer choices
   - Take any kind of photo with question and answer choice in it and be able to extract useful information from it
@@ -27,7 +29,5 @@ How it works:
   5. All the search results get compiled into a pandas Dataframe
   6. Then, the dataframe is anaylzed to count the frequency of the answer choices 
   7. Frequency for each choice is displayed
-  
-<img src="https://github.com/mithil957/QuestionSolver/blob/master/qs.JPG" width="480">
  
 *USE AT OWN RISK, IT IS NOT PERFECT!!
