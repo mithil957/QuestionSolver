@@ -27,5 +27,8 @@ How it works:
   5. All the search results get compiled into a pandas Dataframe
   6. Then, the dataframe is anaylzed to count the frequency of the answer choices 
   7. Frequency for each choice is displayed
+  
+![Sample](https://github.com/mithil957/QuestionSolver/blob/master/qs.JPG "Logo Title Text 1")
+
  
 *USE AT OWN RISK, IT IS NOT PERFECT!!
